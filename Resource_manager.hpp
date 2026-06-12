@@ -1,3 +1,7 @@
+/* The following header is part of CPP-Util version 334d.
+ * The upstream can be found at: https://github.com/agvxov/cpp-util
+ * It is in the Public Domain.
+ */
 /* Resource Manager
  *
  * Maps arbitrary resources to strings.
