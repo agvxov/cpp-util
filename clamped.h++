@@ -1,3 +1,7 @@
+/* The following header is part of CPP-Util version 334d.
+ * The upstream can be found at: https://github.com/agvxov/cpp-util
+ * It is in the Public Domain.
+ */
 /* Arithmetic template who's value is
  *  always clamped into range ON STORE
  *  and converts implicitly.
