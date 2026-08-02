@@ -1,3 +1,7 @@
+/* The following header is part of CPP-Util version c91b.
+ * The upstream can be found at: https://github.com/agvxov/cpp-util
+ * It is in the Public Domain.
+ */
 /* Deferred Erase is a class that helps you
  *  to delete elements from a container "during" iteration.
  * You mark() elements for deletion and they will be when

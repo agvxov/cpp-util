@@ -1,3 +1,7 @@
+/* The following header is part of CPP-Util version c91b.
+ * The upstream can be found at: https://github.com/agvxov/cpp-util
+ * It is in the Public Domain.
+ */
 /* Swap-Pop vector, an std::vector variant,
  *  that on erase it swaps the target element with the last one and pops.
  * This results in significantly better erase performance,
